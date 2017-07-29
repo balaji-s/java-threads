@@ -19,7 +19,7 @@
 *.rar
 
 #some more files not to commit
-.classpath
+
 .project
 .settings/
 target/
